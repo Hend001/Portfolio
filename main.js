@@ -34,8 +34,8 @@ window.onscroll = function () {
 
 const backButtonVisibilty = () => {
   if (
-    document.body.scrollTop > 300 ||
-    document.documentElement.scrollTop > 300
+    document.body.scrollTop > 350 ||
+    document.documentElement.scrollTop > 350
   ) {
     backButton.style.display = "block";
   } else {
