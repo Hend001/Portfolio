@@ -366,7 +366,7 @@ input[type="email"]:invalid {
 .item-img-one {
   grid-column: 1 / span 2;
   grid-row: 1 / span 2;
-  background-image: url("bird-2295436_1280.jpg");
+  background-image: url("https://picsum.photos/200/300");
   background-size: 100% 100%;
 }
 
