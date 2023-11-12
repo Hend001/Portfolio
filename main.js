@@ -4,7 +4,7 @@ const menuItems = document.querySelectorAll("nav .main-page-ul li a");
 const header = document.querySelector("header");
 const backButton = document.querySelector("#back-to-top");
 
-// event for mobile menu
+// function for mobile menu
 const mobileMenu = function () {
   if (nav.classList.contains("responsive")) {
     nav.classList.remove("responsive");
